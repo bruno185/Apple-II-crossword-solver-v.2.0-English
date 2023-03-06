@@ -1,11 +1,15 @@
 # Apple II Croosword Solver
 
 Here is a program for solving crossword puzzles, working in the 64 kB of an Apple IIe, IIc, or IIGS of course.
-The challenge was to find the "hole words" among the 402 328 French words allowed in Scrabble, from 2 to 15 letters.
+The challenge was to find the "hole words" among the 279 496 English words allowed in Scrabble, from 2 to 15 letters.
 
-Of course, the data (words and indexes) do not fit on a floppy disk, but on a hard disk (physical or virtual) and occupy about 24 MB.
+Of course, the data (words and indexes) do not fit on a floppy disk, but on a hard disk (physical or virtual) and occupy about 19 MB.
 
-The indexes have been generated with a Delphi Community Edition program, present in this repository (wordlong.zip)
+The indexes have been generated with a Delphi Community Edition program, present in this repository (wordlong.rar).
+
+The french version is here (with 402 328 French words) : 
+https://github.com/bruno185/Apple-II-crossword-solver-v.2.0-French
+ 
 
 ## Use
 This archive contains a ProDOS disk image (cw.po) to be used it your favourite Apple II emulator or your Apple II.
